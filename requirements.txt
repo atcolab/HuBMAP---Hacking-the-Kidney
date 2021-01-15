@@ -1,0 +1,5 @@
+albumentations==0.5.2
+torch==1.7.0
+torchvision==0.8.1
+fastai==2.2.5
+segmentation-models-pytorch==0.1.3
